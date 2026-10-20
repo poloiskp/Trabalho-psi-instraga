@@ -1,0 +1,13 @@
+C:\Users\127176\source\repos\instraga\instraga\bin\Debug\instraga.exe.config
+C:\Users\127176\source\repos\instraga\instraga\bin\Debug\instraga.exe
+C:\Users\127176\source\repos\instraga\instraga\bin\Debug\instraga.pdb
+C:\Users\127176\source\repos\instraga\instraga\obj\Debug\instraga.csproj.AssemblyReference.cache
+C:\Users\127176\source\repos\instraga\instraga\obj\Debug\instraga.Criar_Conta.resources
+C:\Users\127176\source\repos\instraga\instraga\obj\Debug\instraga.Form1.resources
+C:\Users\127176\source\repos\instraga\instraga\obj\Debug\instraga.Properties.Resources.resources
+C:\Users\127176\source\repos\instraga\instraga\obj\Debug\instraga.csproj.GenerateResource.cache
+C:\Users\127176\source\repos\instraga\instraga\obj\Debug\instraga.csproj.CoreCompileInputs.cache
+C:\Users\127176\source\repos\instraga\instraga\obj\Debug\instraga.exe
+C:\Users\127176\source\repos\instraga\instraga\obj\Debug\instraga.pdb
+C:\Users\127176\source\repos\instraga\instraga\obj\Debug\instraga.exe.config
+C:\Users\127176\source\repos\instraga\instraga\obj\Debug\instraga.Iniciar_Sessão.resources
